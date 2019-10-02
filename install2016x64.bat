@@ -1,0 +1,1 @@
+start /d "{Please Change to your Office Installation Package Path}" setup.exe

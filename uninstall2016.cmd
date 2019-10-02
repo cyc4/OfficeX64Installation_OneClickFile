@@ -1,0 +1,1 @@
+Cscript.exe "{Please Change to your Storage Path}\OffScrub_O16msi.vbs" ALL /Quiet /NoCancel /Force /OSE
