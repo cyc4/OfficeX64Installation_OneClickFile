@@ -403,7 +403,7 @@ If Not fBypass_Stage4 Then
     Dim objShell, strCurDir
     Set objShell = WScript.CreateObject( "WScript.Shell" )
 	strCurDir    = objShell.CurrentDirectory
-	objShell.Run strCurDir & "Office2016_X64\setup.exe", 0
+	objShell.Run strCurDir & "\Office2016_X64\setup.exe", 0
     Set objShell = Nothing       
 
 
